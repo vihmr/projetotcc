@@ -11,6 +11,7 @@ Tecnologias:
 
 Documentação: 
 Estão nesse repositório na pasta 'Documentação'.
+https://github.com/vihmr/projetotcc/tree/master/Documenta%C3%A7%C3%A3o
 
 Protótipo:
 https://www.quant-ux.com/test.html?h=a2aa10a1hjlNGMP0c8REkEh8TmJiOP2usAq87cfg9QAjE2SpC7TSOGQYhFJu
