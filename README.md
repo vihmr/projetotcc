@@ -17,4 +17,4 @@ Protótipo:
 https://www.quant-ux.com/test.html?h=a2aa10a1hjlNGMP0c8REkEh8TmJiOP2usAq87cfg9QAjE2SpC7TSOGQYhFJu
 
 Estágio atual: 
-Fase 1 do jogo em reta final. 
+Concluído.
